@@ -3,40 +3,52 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/usamile269?tab=followers">
-    <img src="https://img.shields.io/github/followers/usamile269?style=for-the-badge&logo=github&label=FOLLOW&color=ff4da6&labelColor=140b1d" alt="GitHub followers" />
-  </a>
+  <a href="https://github.com/usamile269?tab=followers"><img src="https://img.shields.io/github/followers/usamile269?style=for-the-badge&logo=github&label=FOLLOW&color=ff4da6&labelColor=140b1d" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=usamile269&style=for-the-badge&color=ff4da6&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/usamile269/usamile269/commits/main"><img src="https://img.shields.io/github/last-commit/usamile269/usamile269?style=for-the-badge&color=ff4da6&labelColor=140b1d&label=PROFILE+UPDATED" alt="Last profile update" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=24&pause=1800&color=FF5CAD&center=true&vCenter=true&width=640&lines=Welcome+to+my+Cyber-Pink+workspace.;Building+smart+WhatsApp+experiences.;Bots+%E2%80%A2+Pairing+systems+%E2%80%A2+AI+utilities." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=24&pause=1800&color=FF5CAD&center=true&vCenter=true&width=720&lines=Welcome+to+my+Cyber-Pink+workspace.;Building+smart+WhatsApp+experiences.;Bots+%E2%80%A2+Pairing+systems+%E2%80%A2+AI+utilities.;Turning+ideas+into+useful+tools." alt="Animated introduction" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/usamile269"><img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-ff5cad?style=flat-square&labelColor=140b1d" alt="Building in public" /></a>
+  <a href="https://ahmi-pair.vercel.app"><img src="https://img.shields.io/badge/PAIR%20PORTAL-AHMI--PAIR-ff5cad?style=flat-square&labelColor=140b1d" alt="Ahmi Pair portal" /></a>
 </p>
 
 ## ✦ About Me
 
-I am **Ahmad**, the creator behind **Ahmad Mini**. I focus on polished WhatsApp experiences, intelligent automation, pairing portals, and practical AI-powered utilities. My goal is simple: build tools that feel fast, useful, and beautifully designed.
+I am **Ahmad**, the creator behind **Ahmad Mini**. I build polished WhatsApp experiences, intelligent automation, pairing portals, and practical AI-powered utilities. My aim is to make every tool feel **useful, fast, clear, and memorable**—with a little Cyber-Pink glow.
 
-> **Currently building:** Ahmad Mini — a multi-purpose WhatsApp experience with AI utilities, media tools, group controls, and a luxury Cyber-Pink pairing portal.
+> **Currently building:** Ahmad Mini — a multi-purpose WhatsApp experience with AI utilities, media tools, group controls, and a luxury pairing portal.
 
 ## ✦ What I Build
 
-| Focus | What it means |
-|---|---|
-| **WhatsApp automation** | Thoughtful multi-device bot experiences, command systems, and controlled group utilities. |
-| **Pairing portals** | Clean, mobile-first pairing journeys with premium visuals and straightforward setup. |
-| **AI utilities** | Helpful AI interactions, voice features, and practical tools designed around real usage. |
-| **Luxury UI** | Cyber-Pink interfaces with elegant motion, clarity, and a memorable visual identity. |
+<table>
+  <tr>
+    <td width="50%"><strong>WhatsApp Automation</strong><br />Thoughtful multi-device bot experiences, command systems, and controlled group utilities.</td>
+    <td width="50%"><strong>Pairing Experiences</strong><br />Mobile-first connection flows with clear steps, premium visuals, and friendly interaction.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>AI Utilities</strong><br />Practical AI interactions, voice features, media tools, and creative helpers.</td>
+    <td width="50%"><strong>Luxury UI</strong><br />Cyber-Pink interfaces with restrained motion, strong hierarchy, and visual identity.</td>
+  </tr>
+</table>
 
 ## ✦ Featured Work
 
 | Project | Highlight |
 |---|---|
-| **Ahmad Mini** | An all-in-one WhatsApp assistant for AI, entertainment, downloads, tools, and group features. |
-| **Ahmi Pair** | A premium Cyber-Pink pairing experience designed for a smooth, mobile-first connection flow. |
-| **Media Utilities** | Reliable tools for music, video, stickers, image effects, and creative WhatsApp content. |
+| **[MINI-FINAL](https://github.com/usamile269/MINI-FINAL)** | Ahmad Mini: an all-in-one WhatsApp assistant for AI, entertainment, downloads, tools, and group features. |
+| **[Ahmi Pair Site](https://github.com/usamile269/ahmi-pair-site)** | A premium pairing-site experience designed for a smooth, mobile-first connection flow. |
+| **[Ahmad Media API](https://github.com/usamile269/AHMAD-MEDIA-API)** | Media-focused backend work supporting practical bot utilities and integrations. |
 
 ## ✦ Tech I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,redis,express,git,github,vercel&theme=dark" alt="JavaScript, Node.js, MongoDB, Redis, Express, Git, GitHub and Vercel" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-201329?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
@@ -58,12 +70,36 @@ I am **Ahmad**, the creator behind **Ahmad Mini**. I focus on polished WhatsApp 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamile269&layout=compact&hide_border=true&bg_color=0d0711&title_color=ff5cad&text_color=f6dce9" alt="Top languages" />
 </p>
 
+### ✦ Live Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamile269&bg_color=0d0711&color=ffb5d9&line=ff5cad&point=ffd0e8&area=true&hide_border=true&custom_title=Ahmad%27s%20Cyber-Pink%20Contribution%20Graph" width="96%" alt="Ahmad's GitHub activity graph" />
+</p>
+
+### ✦ Contribution Animation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usamile269/usamile269/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usamile269/usamile269/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/usamile269/usamile269/output/github-contribution-grid-snake-dark.svg" width="96%" />
+  </picture>
+</p>
+
+<details>
+  <summary><strong>✦ Open the toolkit</strong></summary>
+  <br />
+
+  **Core themes:** `automation` · `pairing portals` · `AI utilities` · `media tools` · `group safety` · `luxury UI`
+
+  **Current direction:** making Ahmad Mini more reliable, more understandable, and more enjoyable to use—without sacrificing a distinctive visual identity.
+</details>
+
 ## ✦ Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/usamile269">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-ff4da6?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=140b1d" alt="Visit Ahmad on GitHub" />
-  </a>
+  <a href="https://github.com/usamile269"><img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-ff4da6?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=140b1d" alt="Visit Ahmad on GitHub" /></a>
+  <a href="https://ahmi-pair.vercel.app"><img src="https://img.shields.io/badge/Website-Ahmi%20Pair-ff4da6?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=140b1d" alt="Ahmi Pair website" /></a>
 </p>
 
 <p align="center">
