@@ -36,14 +36,6 @@ I am **Ahmad**, the creator behind **Ahmad Mini**. I build polished WhatsApp exp
   </tr>
 </table>
 
-## ✦ Featured Work
-
-| Project | Highlight |
-|---|---|
-| **[MINI-FINAL](https://github.com/usamile269/MINI-FINAL)** | Ahmad Mini: an all-in-one WhatsApp assistant for AI, entertainment, downloads, tools, and group features. |
-| **[Ahmi Pair Site](https://github.com/usamile269/ahmi-pair-site)** | A premium pairing-site experience designed for a smooth, mobile-first connection flow. |
-| **[Ahmad Media API](https://github.com/usamile269/AHMAD-MEDIA-API)** | Media-focused backend work supporting practical bot utilities and integrations. |
-
 ## ✦ Tech I Work With
 
 <p align="center">
